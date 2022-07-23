@@ -1,7 +1,9 @@
 # Tesla-Clone-React-JS
 
 ## Introduction: 
-  Hello I have made this `Tesla Clone build with React JS & Redux` a long time a ago as some changes in original [Tesla](https://www.tesla.com/) Website vary from my tesla Clone but mine UI Interface is same as original `Images, Smooth Scroll` gives kind of good feeling ☺  
+  Hello I have made this `Tesla Clone build with React JS & Redux` a long time a ago as some changes in original [`Tesla`](https://www.tesla.com/) Website vary from my tesla Clone but mine UI Interface is same as original `Images, Smooth Scroll` gives kind of good feeling 😀 Please Also check out My [**Repo**](https://github.com/HamzaZaidiX/Tesla-Clone-React-JS/)
+  
+### Check out [`LIVE DEMO`🚀](https://tesla-clone-shjz.vercel.app/)
   
 ## Screenshots:
 
