@@ -7,7 +7,7 @@
   
 ## Screenshots:
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-d44b975074.gif" alt="Tesla Clone GIF" />
+<a href="https://im4.ezgif.com/tmp/ezgif-4-d44b975074.gif" target="_blank"><img src="https://im4.ezgif.com/tmp/ezgif-4-d44b975074.gif" alt="Tesla Clone GIF" /></a>
  
 ![Tesla Clone Demo ss](https://user-images.githubusercontent.com/52501040/176946203-927c4289-2735-4ad3-baba-7aa33ed0c2c4.jpg)
 
