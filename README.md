@@ -7,8 +7,8 @@
   
 ## Screenshots:
 
-https://user-images.githubusercontent.com/52501040/176946189-6842244a-25f1-468a-8907-a751a5d53d8f.mp4
-
+<img src="https://im4.ezgif.com/tmp/ezgif-4-d44b975074.gif" alt="Tesla Clone GIF" />
+ 
 ![Tesla Clone Demo ss](https://user-images.githubusercontent.com/52501040/176946203-927c4289-2735-4ad3-baba-7aa33ed0c2c4.jpg)
 
 ## Licence
